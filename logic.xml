@@ -1,0 +1,106 @@
+<logic>
+    <region name="knee">
+
+      <structure name="lateral meniscus">
+	<question text="fluid">
+	</question>
+	<question text="dislocation">
+	</question>
+      </structure>
+
+      <structure name="medial mensicus">
+	<question text="fluid">
+	</question>
+	<question text="dislocation">
+	</question>
+      </structure>
+
+      <structure name="ant. lig. cruciatum">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="post. lig. cruciatum">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="lat. collateral lig">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="med. collateral lig">
+	<question text="fluid">
+	</question>
+	
+      </structure>
+
+      <structure name="patella">
+	<question text="fluid">
+	</question>
+	<question text="dislocation">
+	</question>
+	<question text="bone">
+	</question>
+	<question text="cartilago">
+	</question>
+      </structure>
+      
+      <structure name="distal femur">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="proximal tibia">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="proximal fibula">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="tractus iliotibialis">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="Hoffa's fatbody">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="patellar tendon">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="quadriceps tendon">
+	<question text="fluid">
+	</question>
+      </structure>
+
+      <structure name="knee capsula">
+	<question text="Baker's cyst">
+	</question>
+	<question text="fluid">
+	</question>
+      </structure>
+
+
+    </region>
+    <region name="shoulder">
+    </region>
+    <region name="brain">
+    </region>
+    <region name="cervical spine">
+    </region>
+    <region name="thoracic spine">
+    </region>
+    <region name="lumbar spine">
+    </region>
+    <region name="hip">
+    </region>
+</logic>
